@@ -1,0 +1,13 @@
+Speech to Text
+python's SpeechRecognition library https://pypi.org/project/SpeechRecognition/
+Azure speech to text https://azure.microsoft.com/en-us/products/ai-services/speech-to-text
+?? OpenAI speech to text https://platform.openai.com/docs/guides/speech-to-text
+
+Using GPT
+Payment and usage info https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4-gpt-4-turbo-and-gpt-4o
+Documentation https://platform.openai.com/docs/api-reference/introduction
+
+Text to Speech
+Google text to speech https://www.geeksforgeeks.org/convert-text-speech-python/
+pyttsx3 https://pypi.org/project/pyttsx3/
+?? OpenAI text to speech https://platform.openai.com/docs/guides/text-to-speech

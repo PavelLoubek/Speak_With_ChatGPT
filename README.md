@@ -3,3 +3,4 @@ This is a fun little side project I wanted to try. It involves verbal conversati
 Inspired by DougDoug's videos, I really liked the idea of different personalities and chatting.
 
 ## How to set this up
+TBD
